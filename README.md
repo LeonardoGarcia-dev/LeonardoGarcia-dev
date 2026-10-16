@@ -26,7 +26,7 @@ Currently exploring Java, Spring Boot, REST APIs, and relational databases by tu
 
 ---
 
-##  What I'm Focusing On
+##  🎯 What I'm Focusing On
 
 -   Building back-end applications with Java and Spring Boot.
 -   Designing and testing REST APIs.
@@ -66,12 +66,11 @@ Currently exploring Java, Spring Boot, REST APIs, and relational databases by tu
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ---
 
-##  GitHub Stats
+##  Projects
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeonardoGarcia-dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGarcia-dev&layout=compact&theme=tokyonight" />
-</p>
+I use personal and academic projects to put my knowledge into practice and explore different areas of software development.
+
+Explore my repositories
 
 ---
 
