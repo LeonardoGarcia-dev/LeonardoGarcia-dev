@@ -10,23 +10,7 @@ Currently exploring Java, Spring Boot, REST APIs, and relational databases by tu
 
 ---
 
-##  Connect With Me
-
-<p align="left">
-  <a href="https://github.com/LeonardoGarcia-dev">
-    <img src="https://img.shields.io/badge/GitHub-LeonardoGarciadev-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/leonardoogarcia1">
-    <img src="https://img.shields.io/badge/Instagram-@leonardoogarcia1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="www.linkedin.com/in/leonardo-garcia-aa9463346">
-    <img src="https://img.shields.io/badge/LinkedIn-leonardo garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-##  What I'm Focusing On
+##  🎯 What I'm Focusing On
 
 -   Building back-end applications with Java and Spring Boot.
 -   Designing and testing REST APIs.
@@ -71,6 +55,22 @@ Currently exploring Java, Spring Boot, REST APIs, and relational databases by tu
 I use personal and academic projects to put my knowledge into practice and explore different areas of software development.
 
 Explore my repositories
+
+---
+
+##  Connect With Me
+
+<p align="left">
+  <a href="https://github.com/LeonardoGarcia-dev">
+    <img src="https://img.shields.io/badge/GitHub-LeonardoGarciadev-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/leonardoogarcia1">
+    <img src="https://img.shields.io/badge/Instagram-@leonardoogarcia1-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/leonardo-garcia-aa9463346">
+    <img src="https://img.shields.io/badge/LinkedIn-leonardo garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
