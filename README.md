@@ -26,7 +26,7 @@ Currently exploring Java, Spring Boot, REST APIs, and relational databases by tu
 
 ---
 
-##  🎯 What I'm Focusing On
+##  What I'm Focusing On
 
 -   Building back-end applications with Java and Spring Boot.
 -   Designing and testing REST APIs.
